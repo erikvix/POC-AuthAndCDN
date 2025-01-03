@@ -19,7 +19,7 @@ Criar funcionalidades integradas entre frontend e backend utilizando Firebase (A
 
 #### **Authentication**
 
-- **Login com métodos:**
+- **Login com métodos:**sa
   - Email/Senha
   - GitHub
   - Google
